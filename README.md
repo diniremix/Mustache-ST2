@@ -1,22 +1,24 @@
-# Mustache.tmbundle 
+# Mustache Template for Sublime Text 2
 
 For use with [Mustache](http://github.com/defunkt/mustache).
 
 By [Tekkub](http://github.com/tekkub).
 
+## Features
+* Original name was changed to *mustache.tmLanguage*
+* Added a snippet to create {{# tag}}  responding to the word "**tag**"
+* The name of the syntax was changed to *Mustache*
+
 ## Installing
 
-### Zip
+Clone this repo
+	
+	git clone git://github.com/diniremix/Mustache-ST2.git
+	
+copy into your packages folder (in SublimeText 2, find Browse Packages... menu item to open this folder)
 
-1. [Download the zip](http://github.com/defunkt/Mustache.tmbundle/zipball/master)
-2. Open the zip
-3. Double click Mustache.tmbundle
+###Thanks to:
 
-![Example](http://img.skitch.com/20100306-njn7x63w9ppg285y4by377wwhy.png)
-
-### Git
-
-    git clone git://github.com/defunkt/Mustache.tmbundle
-    cd Mustache.tmbundle
-    open Mustache.tmbundle
-
+- [Tekkub](http://github.com/tekkub).
+- [defunkt](http://github.com/defunkt/mustache).
+- [wjhrdy](https://gist.github.com/wjhrdy).

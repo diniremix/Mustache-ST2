@@ -19,7 +19,7 @@
 		|(^|\s)\}
 		)</string>
 	<key>name</key>
-	<string>HTML with mustaches</string>
+	<string>Mustache</string>
 	<key>patterns</key>
 	<array>
 		<dict>
